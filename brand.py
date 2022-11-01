@@ -53,8 +53,8 @@ name = ["Alan", "Murat", "Azad", "Necati", "Aaron", "Aaron-James", "Aarron", "Aa
                  "Caedyn", "Cael", "Caelan", "Caelen", "Caethan", "Cahl", "Cahlum", "Cai", "Caidan", "Melim"]
 
 
-email = 'virat123@gmail.com\n'     #replace with your gmail
-password = 'send123#$\n'           #replace with your password
+email = 'virat123@gmail.com\n'     #replace with your gmail account which dont have brand accounts
+password = 'send123#$\n'           #replace with your gmail password
 
 driver = uc.Chrome(use_subprocess=True)
 wait = WebDriverWait(driver, 20)
