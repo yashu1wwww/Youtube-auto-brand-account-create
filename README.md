@@ -1,9 +1,12 @@
 # Youtube-auto-brand-account-create
 Youtube auto brand account create using selenium by python
 
-replace 56th & 57th line with mail and password in script..
+replace 56th & 57th line with mail and password in script(use gmail whcih dont have brand accounts)....
+
+#in brand.py script i added upto creating 5 auto brand accounts create if want more means add line from  81 to 95 in 142 line if you want one more means.....
 
 Auto Brand Account Create(for recording purpose in video i created 1 brand acc)
+
 https://youtu.be/hql1Lsi-UvQ
 
 in cmd enter
