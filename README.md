@@ -1,32 +1,19 @@
 # Youtube-auto-brand-account-create
 Youtube auto brand account create using selenium by python
 
-(note:-use accounts which dont have 2 factor-authentication.)
+Please note: Use accounts that do not have two-factor authentication.
 
-replace 56th & 57th line with mail and password in script(use gmail whcih dont have brand accounts)....
+Replace the 56th and 57th lines in the script with your Gmail email address and password (use a Gmail account that does not have brand accounts).
 
-#in brand.py script i added upto creating 5 auto brand accounts create if want more means add line from  81 to 95 in 142 line if you want one more means.....
+In the brand.py script, I have added code to create up to 5 auto brand accounts. If you want to create more accounts, add lines 81 to 95 in line 142. For the purpose of recording a video, I have created 1 brand account.
 
-Auto Brand Account Create(for recording purpose in video i created 1 brand acc)
+To begin, open the command prompt and enter "pip install Random" followed by hitting the enter button. Then enter "pip install undetected_chromedriver" and hit enter again.
 
-https://youtu.be/hql1Lsi-UvQ
+After downloading the folder, extract it and open the command prompt. Enter "Python" to find your Python version.
 
-in cmd enter
+Download the Chromedriver (https://chromedriver.chromium.org/downloads) and extract it to the downloaded folder, making sure it matches the version of Chrome on your PC.
 
-pip install Random
-
-and hit enter button
-
-and again enter pip install undetected_chromedriver
-
-and hit enter button
-
-After download the folder extract it and open cmd and enter Python If You Find Python Version
-
-download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
-
-and enter brand.py in that particular folder in cmd or double click on brand.py ...
-
+To run the script, enter "brand.py" in the folder location in the command prompt, or double-click on the brand.py file
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
