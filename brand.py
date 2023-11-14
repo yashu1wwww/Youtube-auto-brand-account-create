@@ -77,6 +77,7 @@ driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/di
 time.sleep(1)
 driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/div/form/div[3]/input[2]').click() #click button
 time.sleep(25)
+#one acc created..
 driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[4]/div[2]/ytd-compact-link-renderer/a/tp-yt-paper-item').click()
@@ -91,6 +92,7 @@ driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/di
 time.sleep(1)
 driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/div/form/div[3]/input[2]').click()
 time.sleep(25)
+#two acc created..
 driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[4]/div[2]/ytd-compact-link-renderer/a/tp-yt-paper-item').click()
@@ -105,6 +107,7 @@ driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/di
 time.sleep(1)
 driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/div/form/div[3]/input[2]').click()
 time.sleep(25)
+#third acc created..
 driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[4]/div[2]/ytd-compact-link-renderer/a/tp-yt-paper-item').click()
@@ -119,6 +122,7 @@ driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/di
 time.sleep(1)
 driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/div/form/div[3]/input[2]').click()
 time.sleep(25)
+#fourth acc created..
 driver.find_element_by_id("avatar-btn").click()
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[4]/div[2]/ytd-compact-link-renderer/a/tp-yt-paper-item').click()
@@ -133,4 +137,4 @@ driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/di
 time.sleep(1)
 driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/div/form/div[3]/input[2]').click()
 time.sleep(30)
-#here i added upto creating 5 auto brand accounts create if want more means add line from  81 to 95 in 142 line if you want one more means.....
+#here i added upto creating 5 auto brand accounts create .... if you want more means copy line from 126 to 139 and paste it how much accs you want...
