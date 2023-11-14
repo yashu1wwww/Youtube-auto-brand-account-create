@@ -69,7 +69,7 @@ driver.find_element_by_id("avatar-btn").click() #acc click
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/ytd-app/ytd-popup-container/tp-yt-iron-dropdown/div/ytd-multi-page-menu-renderer/div[3]/div[1]/yt-multi-page-menu-section-renderer[4]/div[2]/ytd-compact-link-renderer/a/tp-yt-paper-item').click() #click on settings
 time.sleep(6)
-driver.find_element_by_css_selector('#options > ytd-channel-options-renderer > yt-formatted-string:nth-child(3) > a').click() #click 
+driver.find_element_by_css_selector('#options > ytd-channel-options-renderer > yt-formatted-string:nth-child(3) > a').click() #click on create a channel
 time.sleep(3)
 driver.find_element_by_xpath('/html/body/div/div[1]/div[3]/div/div/div/div[2]/div/form/div[1]/div[2]/input').send_keys(random.choice(name)) #give the random name
 time.sleep(1)
