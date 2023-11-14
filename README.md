@@ -5,15 +5,22 @@ Youtube auto brand account create using selenium by python
 
 Replace the 56th and 57th lines in the script with your Gmail email address and password (use a Gmail account that does not have brand accounts).
 
-In the brand.py script, I have added code to create up to 5 auto brand accounts. If you want to create more accounts, means
+In the brand.py script, I have added code to create up to 5 auto brand accounts. If you want to create more accounts, 
 
-To begin, open the command prompt and enter "pip install Random" followed by hitting the enter button. Then enter "pip install undetected_chromedriver" and hit enter again.
+copy line from 126 to 139 and paste it how much accs you want...
+
+To begin, open the command prompt and enter "pip install Random" followed by hitting the enter button.
+
+Then enter "pip install undetected_chromedriver" and hit enter again.
 
 After downloading the folder, extract it and open the command prompt. Enter "Python" to find your Python version.
 
-Download the Chromedriver (https://chromedriver.chromium.org/downloads) and extract it to the downloaded folder, making sure it matches the version of Chrome on your PC.
+Download the Chromedriver (https://chromedriver.chromium.org/downloads) and extract it to the downloaded folder, 
+
+making sure it matches the version of Chrome on your PC.
 
 To run the script, enter "brand.py" in the folder location in the command prompt, or double-click on the brand.py file
+
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
