@@ -3,6 +3,10 @@ Youtube auto brand account create using selenium by python
 
 # Please note: Use accounts that do not have two-factor authentication.
 
+# If these code doesn't run means then run these updated code..
+
+https://github.com/yashu1wwww/Auto-Youtube-brand-account-and-create-feedback-report-using-localhost
+
 Replace the 56th and 57th lines in the script with your Gmail email address and password (use a Gmail account that does not have brand accounts).
 
 In the brand.py script, I have added code to create up to 5 auto brand accounts. If you want to create more accounts, 
